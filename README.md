@@ -1,1 +1,1 @@
-To install the R package RP4design, Rtools compilation is required. Please use the functions slicedRPParallel (one-shot algorithm) and SeqslicedRP (sequential algorithm) in the package to generate slice space-filling designs and generalized slice space-filling designs.
+To install the R package RP4design, Rtools compilation is required. Please use the functions slicedRPParallel (one-shot algorithm) and SeqslicedRP (sequential algorithm) in the package to generate sliced space-filling designs (SSFD) and generalized sliced space-filling designs (GSSFD).
